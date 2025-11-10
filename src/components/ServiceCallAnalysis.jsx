@@ -171,13 +171,13 @@ const ServiceCallAnalysis = () => {
       icon: '📈',
       summary: 'Multiple equipment upgrades and premium options',
       rating: 'Excellent',
-      analysis: 'The technician did an excellent job of making upsell attempts. The technician offered more profitable equipment options such as the heat pump over the standard furnace, a newer and more expensive nest thermostat, and upgrades that would allow the homeowner to past a HERS test. '
+      analysis: 'The technician did an excellent job of making upsell attempts. The technician offered more profitable equipment options such as the heat pump over the standard furnace, a newer and more expensive nest thermostat, and upgrades that would allow the homeowner to pass a HERS test. '
     },
     {
       id: 'maintenance',
       title: 'Maintenance Plan',
       icon: '🔧',
-      summary: 'Additional services like duct sealing and HERS testing',
+      summary: 'Additional Maintenance Service Agreement sucb as servicing the Unit',
       rating: 'Good',
       analysis: 'The technician offered a 10 year maintenance plan to cover maintenance and parts for the new heat pump system, matching the manufacturer warranty. The section was mentioned very briefly and there was a missed opportunity for a better sales pitch for the maintenance plans, although the performed one was good.'
     },
@@ -338,7 +338,7 @@ const ServiceCallAnalysis = () => {
             {/* Call Type Indicator */}
             <div className="bg-blue-600 text-white rounded-lg shadow-md p-5 mt-6">
               <h3 className="text-xl font-bold mb-2">Call Type Identified</h3>
-              <p className="text-xl">🔧 HVAC System Replacement - Sales Call</p>
+              <p className="text-xl">🔧 Repair Call that turned into a System Replacement Discussion</p>
             </div>
           </div>
         </div>
