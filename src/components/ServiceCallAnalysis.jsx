@@ -177,7 +177,7 @@ const ServiceCallAnalysis = () => {
       id: 'maintenance',
       title: 'Maintenance Plan',
       icon: '🔧',
-      summary: 'Additional Maintenance Service Agreement sucb as servicing the Unit',
+      summary: 'Additional Maintenance Service Agreement such as servicing the Unit',
       rating: 'Good',
       analysis: 'The technician offered a 10 year maintenance plan to cover maintenance and parts for the new heat pump system, matching the manufacturer warranty. The section was mentioned very briefly and there was a missed opportunity for a better sales pitch for the maintenance plans, although the performed one was good.'
     },
